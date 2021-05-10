@@ -9,6 +9,16 @@ This will be done by refactoring the code so that it loops through the data one 
 
 ## Results
 ### Stock Performance between 2017 and 2018
+####2017
+In the year 2017, 11 out 12 stocks had a postive rate of return
+
+####2018
+In the year 2018, only 2 out of 12 stock had a postive reate of return. 
+
+####Comparison
+Based on the above findings, 2017 was a good year for investing, where as in 2018, the markets took a downward turn that resutled in 10 out of 12 stock giving a negative return.
+
+
 
 ### Execution Times of the Original and Refactored Script
 
@@ -17,7 +27,7 @@ This will be done by refactoring the code so that it loops through the data one 
 ![Orignal Code 2018](https://github.com/shayanafzal/VBA-Challenge/blob/6afedd06b88b7acb5b77e9f3a3befbd55c83f932/Resources/2018%20Orignal.png)
 ![Refactored Cdoe 2018](https://github.com/shayanafzal/VBA-Challenge/blob/6afedd06b88b7acb5b77e9f3a3befbd55c83f932/Resources/2018%20Refactored.png)
 
-Below is the portion of the script that has been refactored. 
+Below is the portion of the code that has been refactored. 
 ![Refactored Code](https://github.com/shayanafzal/VBA-Challenge/blob/0473229ccd1c6351043b7e45906b6826334cb897/Resources/Code%20Refactored.png)
 
 
