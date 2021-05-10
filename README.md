@@ -9,7 +9,14 @@ This will be done by refactoring the code so that it loops through the data one 
 
 ## Results
 ### Stock Performance between 2017 and 2018
+
 ### Execution Times of the Original and Refactored Script
+
+![Orgignal Code 2017](https://github.com/shayanafzal/VBA-Challenge/blob/c43d9a204f471fef9dccfcdf6c132c46986d2ef9/Resources/2017%20Orignal.png)
+![Refactored Code 2017](url)
+![Orignal Code 2018](url)
+![Refactored Cdoe 2018](url)
+
 ### Screen shots and Code
 
 ## Summary
