@@ -11,29 +11,29 @@ This will be accomplished by refactoring the code so that it loops through the d
 ## Results
 ### Stock Performance between 2017 and 2018
 
-In the year 2017, 11 out 12 stocks had a postive rate of return.  
-In the year 2018, only 2 out of 12 stock had a postive reate of return.  
-Based on the above findings, 2017 was a good year for investing, where as in 2018, the markets took a downward turn that resutled in 10 out of 12 stock giving a negative return.  
+In the year 2017, 11 out 12 stocks had a positive rate of return.  
+In the year 2018, only 2 out of 12 stock had a positive rate of return.  
+Based on the above findings, 2017 was a good year for investing, where as in 2018, the markets took a downward turn that resulted in 10 out of 12 stock giving a negative return.  
 
 
 
 
 ### Execution Times of the Original and Refactored Script
-The refactored script run much faster than the orignal. 
+The refactored script run much faster than the original. 
 
-When running the analysis for 2017, the refactored code had a runtime of 0.17 seconds, compared to 0.87 seconds for the orignal code. Please refer to the screen shots below.
+When running the analysis for 2017, the refactored code had a runtime of 0.17 seconds, compared to 0.87 seconds for the original code. Please refer to the screen shots below.
 
-#### 2017 - Orignal Code
+#### 2017 - Original Code
 ![Orgignal Code 2017](https://github.com/shayanafzal/VBA-Challenge/blob/c43d9a204f471fef9dccfcdf6c132c46986d2ef9/Resources/2017%20Orignal.png)
 
 #### 2017 - Refactored Code
 ![Refactored Code 2017](https://github.com/shayanafzal/VBA-Challenge/blob/6afedd06b88b7acb5b77e9f3a3befbd55c83f932/Resources/2017%20Refactored.png)
 
 
-When running the analysis for 2018, the refactored code had a runtime of 0.16 seconds, compared to 0.86 secodns for the orignal code. Please refer to the screen shots below.
+When running the analysis for 2018, the refactored code had a runtime of 0.16 seconds, compared to 0.86 seconds for the original code. Please refer to the screen shots below.
 
 
-#### 2018 - Orignal Code
+#### 2018 - Original Code
 ![Orignal Code 2018](https://github.com/shayanafzal/VBA-Challenge/blob/6afedd06b88b7acb5b77e9f3a3befbd55c83f932/Resources/2018%20Orignal.png)
 
 #### 2018 - Refactored Code
@@ -44,7 +44,7 @@ When running the analysis for 2018, the refactored code had a runtime of 0.16 se
 Below is the portion of the code that has been refactored. 
 ![Refactored Code](https://github.com/shayanafzal/VBA-Challenge/blob/0473229ccd1c6351043b7e45906b6826334cb897/Resources/Code%20Refactored.png)
 
-Looking at the refactored code above it can be noted that the refactored code loops through the data once and collects all the information. Since it is looping though the data only once, it run about 5 to 6 times faster than the orignal code. 
+Looking at the refactored code above it can be noted that the refactored code loops through the data once and collects all the information. Since it is looping though the data only once, it run about 5 to 6 times faster than the original code. 
 
 ## Summary
 ### Advantages or Disadvantages of Refactoring Code
