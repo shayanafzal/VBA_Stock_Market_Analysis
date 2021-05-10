@@ -62,7 +62,7 @@ The refactored code runs approximately 5 to 6 times faster then the original cod
 
 When Steve starts using this notebook to conduct an analysis of the complete stock market over a large time span, this improvement in time will be noticeable.  
 
-It took sometime to improve the code, however, the code is now more efficient, concise and easy to follow. Hence it was well worth the time refactor this code making it better for Steve.
+It took sometime to improve the code, however, the code is now more efficient, concise and easy to follow. Hence it was well worth the time to refactor this code making it better for Steve.
 
 The excel document with the Stock Analysis code can be accessed
 [here](https://github.com/shayanafzal/VBA-Challenge/blob/8e0dc23fc8120bd4d31099274ac275ba37aa4813/VBA_Challenge.xlsm).
