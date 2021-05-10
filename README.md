@@ -65,7 +65,7 @@ When Steve starts using this notebook to conduct an analysis of the complete sto
 It took sometime to improve the code, however, the code is now more efficient, concise and easy to follow. 
 
 The excel document with the Stock Analysis code can be accessed
-[here](https://github.com/shayanafzal/VBA-Challenge/blob/e295d5eb1a9d251dd62e107e961bc42150c8b584/VBA_Challenge.xlsm).
+[here]().
 
 
 
