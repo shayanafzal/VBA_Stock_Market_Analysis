@@ -32,7 +32,7 @@ When running the analysis for 2017, the refactored code had a runtime of 0.17 se
 ![Refactored Code 2017](https://github.com/shayanafzal/VBA-Challenge/blob/6afedd06b88b7acb5b77e9f3a3befbd55c83f932/Resources/2017%20Refactored.png)
 
 
-When running the analysis for 2018
+When running the analysis for 2018, the refactoed code had a runtime of 0.16 seconds, compared to 0.86 secodns for the orignal code. Please refer to the screen shots below.
 
 
 #### 2018 - Orignal Code
