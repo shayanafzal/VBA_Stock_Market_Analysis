@@ -60,7 +60,7 @@ Looking at the refactored code above it can be noted that the refactored code lo
 * The original code is working, and refactoring it could cause disruptions
 
 ### How do the pros and cons apply to refactoring the original VBA Script
-The refactored code runs approximately 5 to 6 times faster then the original code. We are working with a small data set in this exercise, however, the refactored code that runs 5 to 6 times faster than the original will be noticeable when working with a large data set. 
+The refactored code runs approximately 5 to 6 times faster then the original code. We are working with a small data set in this exercise, however, the refactored the speed up the process 5 to 6 times will be noticeable when working with a large data set. 
 When Steve starts using this notebook to conduct an analysis of the complete stock market over a large time span, this improvement in time will be noticeable. 
 It took sometime to improve the code, however, the code is now more efficient, concise and easy to follow. 
 
