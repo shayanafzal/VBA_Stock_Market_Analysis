@@ -17,7 +17,8 @@ In the year 2017, 11 out 12 stocks had a postive rate of return
 In the year 2018, only 2 out of 12 stock had a postive reate of return. 
 
 #### Comparison
-Based on the above findings, 2017 was a good year for investing, where as in 2018, the markets took a downward turn that resutled in 10 out of 12 stock giving a negative return.
+Based on the above findings, 2017 was a good year for investing, where as in 2018, the markets took a downward turn that resutled in 10 out of 12 stock giving a negative return.  
+
 
 
 
