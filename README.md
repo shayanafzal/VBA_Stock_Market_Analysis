@@ -4,7 +4,7 @@
 ### Purpose
 The purpose of this task is to refactor the code so that it works efficiently with a larger data set of stocks.
 ### Background
-Steve would like to do more stock market research for his parents. He would like to expand the dataset to include the entire stock market. In addition to that Steven would like to expand the number of year. This would result in significantly increasing the data set, making it important to have a code that runs faster.  
+Steve would like to do more stock market research for his parents. He would like to expand the dataset to include the entire stock market. In addition to that Steven would like to expand the number of years. This would result in significantly increasing the data set, making it important to have a code that runs faster.  
 
 This will be accomplished by refactoring the code so that it loops through the data one time to collect the data.
 
