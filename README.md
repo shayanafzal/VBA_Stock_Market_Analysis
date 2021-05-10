@@ -41,12 +41,12 @@ When running the analysis for 2018, the refactored code had a runtime of 0.16 se
 #### 2018 - Refactored Code
 ![Refactored Cdoe 2018](https://github.com/shayanafzal/VBA-Challenge/blob/6afedd06b88b7acb5b77e9f3a3befbd55c83f932/Resources/2018%20Refactored.png)
 
+
+### Screen shots and Code
 Below is the portion of the code that has been refactored. 
 ![Refactored Code](https://github.com/shayanafzal/VBA-Challenge/blob/0473229ccd1c6351043b7e45906b6826334cb897/Resources/Code%20Refactored.png)
 
-
-
-### Screen shots and Code
+Looking at the refactored code above it can be noted that the refactored code loops through the data once and collects all the information. Since it is looping though the data only once, it run about 5 to 6 times faster than the orignal code. 
 
 ## Summary
 ### Advantages or Disadvantages of Refactoring Code
