@@ -13,9 +13,9 @@ This will be done by refactoring the code so that it loops through the data one 
 ### Execution Times of the Original and Refactored Script
 
 ![Orgignal Code 2017](https://github.com/shayanafzal/VBA-Challenge/blob/c43d9a204f471fef9dccfcdf6c132c46986d2ef9/Resources/2017%20Orignal.png)
-![Refactored Code 2017](url)
-![Orignal Code 2018](url)
-![Refactored Cdoe 2018](url)
+![Refactored Code 2017](https://github.com/shayanafzal/VBA-Challenge/blob/6afedd06b88b7acb5b77e9f3a3befbd55c83f932/Resources/2017%20Refactored.png)
+![Orignal Code 2018](https://github.com/shayanafzal/VBA-Challenge/blob/6afedd06b88b7acb5b77e9f3a3befbd55c83f932/Resources/2018%20Orignal.png)
+![Refactored Cdoe 2018](https://github.com/shayanafzal/VBA-Challenge/blob/6afedd06b88b7acb5b77e9f3a3befbd55c83f932/Resources/2018%20Refactored.png)
 
 ### Screen shots and Code
 
