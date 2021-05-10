@@ -9,13 +9,13 @@ This will be done by refactoring the code so that it loops through the data one 
 
 ## Results
 ### Stock Performance between 2017 and 2018
-####2017
+#### 2017
 In the year 2017, 11 out 12 stocks had a postive rate of return
 
-####2018
+#### 2018
 In the year 2018, only 2 out of 12 stock had a postive reate of return. 
 
-####Comparison
+#### Comparison
 Based on the above findings, 2017 was a good year for investing, where as in 2018, the markets took a downward turn that resutled in 10 out of 12 stock giving a negative return.
 
 
