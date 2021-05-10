@@ -23,11 +23,17 @@ Based on the above findings, 2017 was a good year for investing, where as in 201
 ### Execution Times of the Original and Refactored Script
 The refactored script run much faster than the orignal. 
 
+When running the analysis for 2017, the refactored code had a runtime of 0.17 seconds, compared to 0.87 seconds for the orignal code. Please refer to the screen shots below.
+
 #### 2017 - Orignal Code
 ![Orgignal Code 2017](https://github.com/shayanafzal/VBA-Challenge/blob/c43d9a204f471fef9dccfcdf6c132c46986d2ef9/Resources/2017%20Orignal.png)
 
 #### 2017 - Refactored Code
 ![Refactored Code 2017](https://github.com/shayanafzal/VBA-Challenge/blob/6afedd06b88b7acb5b77e9f3a3befbd55c83f932/Resources/2017%20Refactored.png)
+
+
+When running the analysis for 2018
+
 
 #### 2018 - Orignal Code
 ![Orignal Code 2018](https://github.com/shayanafzal/VBA-Challenge/blob/6afedd06b88b7acb5b77e9f3a3befbd55c83f932/Resources/2018%20Orignal.png)
