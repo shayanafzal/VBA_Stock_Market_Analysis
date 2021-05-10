@@ -64,6 +64,9 @@ The refactored code runs approximately 5 to 6 times faster then the original cod
 When Steve starts using this notebook to conduct an analysis of the complete stock market over a large time span, this improvement in time will be noticeable. 
 It took sometime to improve the code, however, the code is now more efficient, concise and easy to follow. 
 
+The excel document with the Stock Analysis code can be viewed at
+[Stock Market Analysis](http://github.com)
+
 
 
 
